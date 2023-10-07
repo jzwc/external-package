@@ -1,7 +1,7 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
-public struct ExternalDependency {
+public struct ExternalLibrary {
 
-    static public let code = "ExternalDependency"
+    static public let code = "ExternalLibrary"
 }
